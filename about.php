@@ -13,7 +13,7 @@
 <body>
     <div class="main">
         <h1 class="title-text center-text">
-            <a class="home-link" href="index.html">Wall-E’s Odyssey: A Metal Scrap Adventure</a>
+            <a class="home-link" href="index.php">Wall-E’s Odyssey: A Metal Scrap Adventure</a>
         </h1>
         <h3 class="subtitle-text center-text">
             About space garbage
