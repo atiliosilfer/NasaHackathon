@@ -1,0 +1,42 @@
+body{
+    background-image: url("../page_background.jpg");
+    background-color: #000;
+}
+.content{
+    margin-left:25%;
+    margin-right:25%;
+}
+
+.title-text{
+    color: white;
+    font-family: 'Economica', sans-serif;
+    font-size: 4em;
+}
+.subtitle-text{
+    color: white;
+    font-family: 'Economica', sans-serif;
+    font-size: 2em;
+}
+.normal-text{
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1em;
+}
+.center-text{
+    text-align: center;
+}
+.link{
+    text-decoration-color: white;
+    color: white;
+}
+.home-link{
+    text-decoration: none;
+    color: white;
+
+}
+canvas{
+    margin: 0 auto;
+    display: block;
+    width: 800px;
+    height: 600px;
+}
